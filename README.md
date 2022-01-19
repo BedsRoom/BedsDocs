@@ -9,4 +9,4 @@ Read the [Docs](https://www.bedsdoc.cf/) for [Beds/Radio](https://www.bedsdash.c
 - [ ] Maybe more to it
 - [ ] full about music section (there is kind of already one.)
 - [ ] Fixes to the website
-- [x] Link to take you to [Beds Dashboard](https://bedsdash.cf/) 
+- [x] Link to take you to [Beds Dashboard](https://www.bedsdash.cf/) 
